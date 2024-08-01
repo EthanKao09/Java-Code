@@ -1,0 +1,54 @@
+Enqueue Orange
+Size: 1
+Orange
+
+Enqueue Mango
+Size: 2
+Orange
+Mango
+
+Enqueue Guave into full queue
+Size: 2
+Orange
+Mango
+
+Dequeue
+Size: 1
+Mango
+
+Dequeue
+Size: 0
+
+Enqueue Strawberry
+Size: 1
+Strawberry
+
+Enqueue Lemon
+Size: 2
+Strawberry
+Lemon
+
+Resize and Enqueu Banana
+Size: 3
+Strawberry
+Lemon
+Banana
+
+Resize
+Size: 3
+Strawberry
+Lemon
+Banana
+
+Enqueue Tomato
+Tomato 
+Enqueue Grape
+Grape Grape Tomato 
+Dequeue
+Grape Tomato 
+Dequeue
+
+Enqueu Pineapple
+Pineapple 
+Enqueue Line
+Lime Lime Pineapple 
