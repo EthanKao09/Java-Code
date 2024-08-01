@@ -1,0 +1,108 @@
+
+HMap: 
+0: (null, null) false
+1: (null, null) false
+2: (null, null) false
+3: (null, null) false
+4: (null, null) false
+
+
+HMap: 
+0: (5, Apple) true
+1: (null, null) false
+2: (null, null) false
+3: (null, null) false
+4: (null, null) false
+
+
+HMap: 
+0: (5, Apple) true
+1: (15, Orange) true
+2: (null, null) false
+3: (null, null) false
+4: (null, null) false
+
+
+HMap: 
+0: (5, Apple) true
+1: (15, Orange) true
+2: (null, null) false
+3: (null, null) false
+4: (25, Strawberry) true
+
+
+HMap: 
+0: (5, Apple) true
+1: (15, Orange) true
+2: (null, null) false
+3: (3, Lemon) true
+4: (25, Strawberry) true
+
+
+HMap: 
+0: (null, null) false
+1: (null, null) false
+2: (2, Grava) true
+3: (3, Lemon) true
+4: (null, null) false
+5: (5, Apple) true
+6: (15, Orange) true
+7: (null, null) false
+8: (null, null) false
+9: (25, Strawberry) true
+
+
+HMap: 
+0: (null, null) false
+1: (null, null) false
+2: (2, Grava) true
+3: (3, Lemon) true
+4: (null, null) false
+5: (null, null) true
+6: (15, Orange) true
+7: (null, null) false
+8: (null, null) false
+9: (25, Strawberry) true
+
+null
+
+HMap: 
+0: (null, null) false
+1: (null, null) false
+2: (2, Grava) true
+3: (3, Lemon) true
+4: (null, null) false
+5: (null, null) true
+6: (null, null) true
+7: (null, null) false
+8: (null, null) false
+9: (25, Strawberry) true
+
+
+HMap: 
+0: (null, null) false
+1: (null, null) false
+2: (2, Grava) true
+3: (3, Lemon) true
+4: (null, null) false
+5: (15, Test) true
+6: (null, null) true
+7: (null, null) false
+8: (null, null) false
+9: (25, Strawberry) true
+
+true
+false
+
+HMap: 
+0: (null, null) false
+1: (null, null) false
+2: (2, Grava) true
+3: (3, Lemon) true
+4: (null, null) false
+5: (15, Test) true
+6: (null, null) true
+7: (null, null) false
+8: (null, null) false
+9: (25, Strawberry) true
+
