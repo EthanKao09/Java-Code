@@ -1,0 +1,11 @@
+Royal Flush		8	(0.0003%)
+Straight Flush	27	(0.0010%)
+Four Of A Kind	634	(0.0244%)
+Full House		3751	(0.1443%)
+Flush		5160	(0.1985%)
+Straight		10242	(0.3941%)
+Three Of A Kind	54818	(2.1092%)
+Two Pair		123936	(4.7687%)
+One Pair		1098786	(42.2779%)
+High Card		1301598	(50.0815%)
+This simulation took 71 seconds.
