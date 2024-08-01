@@ -1,0 +1,491 @@
+Analyzed file ./src/Homework3/Shakespeare18thSonnet.txt
+
+	Total words:  114
+	Unique words: 83
+
+	Vocabulary density: 1.37
+
+	Test toString() method:
+Size: 83
+isEmpty(): false
+isFull(): false
+Smallest(): a
+Element[0] a
+Element[1] all
+Element[2] and
+Element[3] art
+Element[4] as
+Element[5] brag
+Element[6] breathe
+Element[7] buds
+Element[8] but
+Element[9] by
+Element[10] can
+Element[11] chance
+Element[12] changing
+Element[13] compare
+Element[14] complexion
+Element[15] course
+Element[16] darling
+Element[17] date
+Element[18] day
+Element[19] death
+Element[20] declines
+Element[21] dimm'd
+Element[22] do
+Element[23] eternal
+Element[24] every
+Element[25] eye
+Element[26] eyes
+Element[27] fade
+Element[28] fair
+Element[29] from
+Element[30] gives
+Element[31] gold
+Element[32] grow'st
+Element[33] hath
+Element[34] heaven
+Element[35] his
+Element[36] hot
+Element[37] i
+Element[38] in
+Element[39] is
+Element[40] lease
+Element[41] life
+Element[42] lines
+Element[43] lives
+Element[44] long
+Element[45] lose
+Element[46] lovely
+Element[47] may
+Element[48] men
+Element[49] more
+Element[50] nature's
+Element[51] nor
+Element[52] not
+Element[53] of
+Element[54] often
+Element[55] or
+Element[56] ow'st
+Element[57] possession
+Element[58] rough
+Element[59] see
+Element[60] shade
+Element[61] shake
+Element[62] shall
+Element[63] shines
+Element[64] short
+Element[65] so
+Element[66] sometime
+Element[67] summer
+Element[68] summer's
+Element[69] temperate
+Element[70] that
+Element[71] the
+Element[72] thee
+Element[73] this
+Element[74] thou
+Element[75] thy
+Element[76] time
+Element[77] to
+Element[78] too
+Element[79] untrimm'd
+Element[80] wander'st
+Element[81] when
+Element[82] winds
+
+	Test greater() method:
+79 elements greater than "art":
+4 elements greater than "too":
+
+	Test smallest() method
+The smallest element is a
+The smallest element is null
+The smallest element is llama
+
+	 Test combine() method
+Size: 86
+isEmpty(): false
+isFull(): false
+Smallest(): a
+Element[0] a
+Element[1] all
+Element[2] and
+Element[3] art
+Element[4] as
+Element[5] brag
+Element[6] breathe
+Element[7] buds
+Element[8] but
+Element[9] by
+Element[10] can
+Element[11] chance
+Element[12] changing
+Element[13] compare
+Element[14] complexion
+Element[15] course
+Element[16] darling
+Element[17] date
+Element[18] day
+Element[19] death
+Element[20] declines
+Element[21] dimm'd
+Element[22] do
+Element[23] eternal
+Element[24] every
+Element[25] eye
+Element[26] eyes
+Element[27] fade
+Element[28] fair
+Element[29] from
+Element[30] gives
+Element[31] gold
+Element[32] grow'st
+Element[33] hath
+Element[34] heaven
+Element[35] his
+Element[36] hot
+Element[37] i
+Element[38] in
+Element[39] is
+Element[40] lease
+Element[41] life
+Element[42] lines
+Element[43] lives
+Element[44] llama
+Element[45] long
+Element[46] lose
+Element[47] lovely
+Element[48] may
+Element[49] men
+Element[50] more
+Element[51] nature's
+Element[52] nor
+Element[53] not
+Element[54] of
+Element[55] often
+Element[56] or
+Element[57] ow'st
+Element[58] possession
+Element[59] rough
+Element[60] see
+Element[61] shade
+Element[62] shake
+Element[63] shall
+Element[64] shines
+Element[65] short
+Element[66] so
+Element[67] sometime
+Element[68] summer
+Element[69] summer's
+Element[70] temperate
+Element[71] that
+Element[72] the
+Element[73] thee
+Element[74] this
+Element[75] this
+Element[76] thou
+Element[77] thou
+Element[78] thy
+Element[79] time
+Element[80] to
+Element[81] too
+Element[82] untrimm'd
+Element[83] wander'st
+Element[84] when
+Element[85] winds
+
+	 Test toArray() method
+a
+all
+and
+art
+as
+brag
+breathe
+buds
+but
+by
+can
+chance
+changing
+compare
+complexion
+course
+darling
+date
+day
+death
+declines
+dimm'd
+do
+eternal
+every
+eye
+eyes
+fade
+fair
+from
+gives
+gold
+grow'st
+hath
+heaven
+his
+hot
+i
+in
+is
+lease
+life
+lines
+lives
+long
+lose
+lovely
+may
+men
+more
+nature's
+nor
+not
+of
+often
+or
+ow'st
+possession
+rough
+see
+shade
+shake
+shall
+shines
+short
+so
+sometime
+summer
+summer's
+temperate
+that
+the
+thee
+this
+thou
+thy
+time
+to
+too
+untrimm'd
+wander'st
+when
+winds
+
+	 Test equals() method
+equals() returns true
+
+	 Test !equals() method
+equals() returns false
+
+	 Test addAll() method
+addAll() returns true
+Size: 86
+isEmpty(): false
+isFull(): false
+Smallest(): a
+Element[0] a
+Element[1] all
+Element[2] and
+Element[3] art
+Element[4] as
+Element[5] brag
+Element[6] breathe
+Element[7] buds
+Element[8] but
+Element[9] by
+Element[10] can
+Element[11] chance
+Element[12] changing
+Element[13] compare
+Element[14] complexion
+Element[15] course
+Element[16] darling
+Element[17] date
+Element[18] day
+Element[19] death
+Element[20] declines
+Element[21] dimm'd
+Element[22] do
+Element[23] eternal
+Element[24] every
+Element[25] eye
+Element[26] eyes
+Element[27] fade
+Element[28] fair
+Element[29] from
+Element[30] gives
+Element[31] gold
+Element[32] grow'st
+Element[33] hath
+Element[34] heaven
+Element[35] his
+Element[36] hot
+Element[37] i
+Element[38] in
+Element[39] is
+Element[40] lease
+Element[41] life
+Element[42] lines
+Element[43] lives
+Element[44] llama
+Element[45] long
+Element[46] lose
+Element[47] lovely
+Element[48] may
+Element[49] men
+Element[50] more
+Element[51] nature's
+Element[52] nor
+Element[53] not
+Element[54] of
+Element[55] often
+Element[56] or
+Element[57] ow'st
+Element[58] possession
+Element[59] rough
+Element[60] see
+Element[61] shade
+Element[62] shake
+Element[63] shall
+Element[64] shines
+Element[65] short
+Element[66] so
+Element[67] sometime
+Element[68] summer
+Element[69] summer's
+Element[70] temperate
+Element[71] that
+Element[72] the
+Element[73] thee
+Element[74] this
+Element[75] this
+Element[76] thou
+Element[77] thou
+Element[78] thy
+Element[79] time
+Element[80] to
+Element[81] too
+Element[82] untrimm'd
+Element[83] wander'st
+Element[84] when
+Element[85] winds
+
+	 Test clear() method
+Size: 0
+isEmpty(): true
+isFull(): false
+Smallest(): null
+
+Restore Collection:
+true
+Size: 83
+isEmpty(): false
+isFull(): false
+Smallest(): a
+Element[0] a
+Element[1] all
+Element[2] and
+Element[3] art
+Element[4] as
+Element[5] brag
+Element[6] breathe
+Element[7] buds
+Element[8] but
+Element[9] by
+Element[10] can
+Element[11] chance
+Element[12] changing
+Element[13] compare
+Element[14] complexion
+Element[15] course
+Element[16] darling
+Element[17] date
+Element[18] day
+Element[19] death
+Element[20] declines
+Element[21] dimm'd
+Element[22] do
+Element[23] eternal
+Element[24] every
+Element[25] eye
+Element[26] eyes
+Element[27] fade
+Element[28] fair
+Element[29] from
+Element[30] gives
+Element[31] gold
+Element[32] grow'st
+Element[33] hath
+Element[34] heaven
+Element[35] his
+Element[36] hot
+Element[37] i
+Element[38] in
+Element[39] is
+Element[40] lease
+Element[41] life
+Element[42] lines
+Element[43] lives
+Element[44] long
+Element[45] lose
+Element[46] lovely
+Element[47] may
+Element[48] men
+Element[49] more
+Element[50] nature's
+Element[51] nor
+Element[52] not
+Element[53] of
+Element[54] often
+Element[55] or
+Element[56] ow'st
+Element[57] possession
+Element[58] rough
+Element[59] see
+Element[60] shade
+Element[61] shake
+Element[62] shall
+Element[63] shines
+Element[64] short
+Element[65] so
+Element[66] sometime
+Element[67] summer
+Element[68] summer's
+Element[69] temperate
+Element[70] that
+Element[71] the
+Element[72] thee
+Element[73] this
+Element[74] thou
+Element[75] thy
+Element[76] time
+Element[77] to
+Element[78] too
+Element[79] untrimm'd
+Element[80] wander'st
+Element[81] when
+Element[82] winds
+
+	 Test retainAll() method
+retainAll: true
+Size: 2
+isEmpty(): false
+isFull(): false
+Smallest(): this
+Element[0] this
+Element[1] thou
+
+	 Test removeAll() method
+Size: 0
+isEmpty(): true
+isFull(): false
+Smallest(): null
